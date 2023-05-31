@@ -21,21 +21,25 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-<!-- ### Screenshot
+### Screenshot
 
-![](./screenshot.jpg) -->
+![](./screenshot.png)
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [Mobile-first solution using CSS Custom Properties](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-custom-properties-ZgXVSe6P6c)
+- Live Site URL: [Frontend Mentor | Equalizer landing page](https://azganoth.github.io/equalizer-landing-page/)
 
 ## My process
 
 ### Built with
 
 - HTML5
+  - Semantic markup
 - CSS3
+  - Custom properties
+  - Flexbox
+  - Grid
 - Mobile-first workflow
 
 ## Author
